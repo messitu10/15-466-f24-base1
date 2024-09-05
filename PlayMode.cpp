@@ -14,8 +14,6 @@
 #include <fstream>
 #include <iostream>
 #include <random>
-#include <set>
-#include <map>
 
 PlayMode::PlayMode() {
 	//TODO:
