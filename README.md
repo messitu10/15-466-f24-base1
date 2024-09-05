@@ -1,8 +1,8 @@
-# (TODO: your game's title)
+# Miaturize
 
-Author: (TODO: your name)
+Author: Messi Tu
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
+Design: Sorry, I was not able to implement the gameplay because of stucking at the asset pipeline.
 
 Screen Shot:
 
@@ -10,13 +10,12 @@ Screen Shot:
 
 How Your Asset Pipeline Works:
 
-(TODO: describe the steps in your asset pipeline, from source files to tiles/backgrounds/whatever you upload to the PPU466.)
+My asset pipeline intends to load a png of size 128 x 96 pixels (16 x 12 tiles), and store these tiles and palettes in tile_table and palette table. However, when I use these tiles to draw the background, the background was all black. I tried to understand what was going on but unfortunately no clue by the due date.
 
-(TODO: make sure the source files you drew are included. You can [link](your/file.png) to them to be a bit fancier.)
 
 How To Play:
 
-(TODO: describe the controls and (if needed) goals/strategy.)
+Sorry, no game implemented.
 
 This game was built with [NEST](NEST.md).
 
